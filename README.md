@@ -5,4 +5,4 @@ The SVHN dataset contains over 600,000 labeled digits cropped from street-level 
 
 Objective: To build a feed-forward neural network model that can recognize the digits in the images.
 
-Dataset: Here, I use a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset.
+Dataset: Here, I use a subset of the original data to save some computation time. The dataset is provided as a .h5 file. The basic preprocessing steps have been applied on the dataset. Link of the datasets https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view
